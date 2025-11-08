@@ -1,5 +1,3 @@
-# GoodFour_Hints_System
-
 # GoodFour - Dynamic Hints System
 
 This repository showcases the dynamic, point-based hints system designed for **GoodFour**, a word-grouping puzzle game. The system is engineered to provide strategic assistance to players without undermining the core challenge of the puzzle.
