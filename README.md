@@ -82,6 +82,7 @@ function removeOneWrongTileHint() {
     }
 }
 
-## Technologies Used
+
+Technologies Used
 JavaScript (ES6): For all functional logic, state management, and DOM manipulation.
 HTML/CSS: For the structure and styling of the hint modal and UI elements.
